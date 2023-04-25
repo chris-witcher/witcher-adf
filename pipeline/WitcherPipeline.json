@@ -1,0 +1,17 @@
+{
+	"name": "WitcherPipeline",
+	"properties": {
+		"activities": [
+			{
+				"name": "WaitAMinute",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 5
+				}
+			}
+		],
+		"annotations": []
+	}
+}
