@@ -1,0 +1,9 @@
+{
+	"name": "witcheradf",
+	"location": "westus3",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "030e4b11-e30e-411f-9da4-4ec4c769533e",
+		"tenantId": "7ed6efe3-5423-4a59-b268-750ff1a73525"
+	}
+}
