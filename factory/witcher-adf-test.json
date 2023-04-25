@@ -1,0 +1,9 @@
+{
+	"name": "witcher-adf-test",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "49ae20af-aed6-4bf4-9c57-5a3e9906b91c",
+		"tenantId": "7ed6efe3-5423-4a59-b268-750ff1a73525"
+	}
+}
